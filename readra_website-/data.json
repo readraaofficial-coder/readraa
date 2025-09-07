@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": 1756645043353,
+      "name": "rishikesh",
+      "email": "rishikeshtiwari454@gmail.com",
+      "password": "$2a$10$zr4NfiVhN8Kfc0FAWanWV.PwHxRt7mEYqO/JMd92cFCT9InnJOoOS",
+      "favorites": [
+        "THE PSYCHOLOGY OF MONEY SUMMARY_dark.pdf",
+        "THE PSYCHOLOGY OF MONEY SUMMARY_light.pdf",
+        "THE POWER OF NOW SUMMARY_light.pdf",
+        "BLINK_light.pdf",
+        "OUTLIERS _dark",
+        "HOW TO WIN FRIENDS AND INFLUENCE PEOPLE SUMMARY_light",
+        "BLINK_dark",
+        "THE INTELLIGENT INVESTOR SUMMARY",
+        "You Are a Badass",
+        "TO KILL A MOCKINGBIRD SUMMARY",
+        "GRIT"
+      ],
+      "viewed": [],
+      "avatarUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=1",
+      "nameChangeCount": 3,
+      "lastChangeTimestamp": 1756927480841
+    },
+    {
+      "id": 1756789317150,
+      "name": "R.S.M.",
+      "email": "readraaofficial@gmail.com",
+      "password": "$2a$10$Yean0rofo22HeyiEtCAqAuPQwZ2.wCkgLwqJ0nNsmysvycnQqmnSu",
+      "favorites": [],
+      "viewed": [],
+      "avatarUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=98",
+      "nameChangeCount": 3,
+      "lastChangeTimestamp": 1756946321845
+    },
+    {
+      "id": 1757243854760,
+      "name": "hjhyuoaerg537_",
+      "email": "btrs@gmail.com",
+      "password": "$2a$10$nxDErdUawW/65cccnUgA5OHYkPiYll.ndM4qsYrD85Al1uQApgWsC",
+      "favorites": [],
+      "viewed": [],
+      "nameChangeCount": 0,
+      "lastChangeTimestamp": null
+    },
+    {
+      "id": 1757243862111,
+      "name": "hjhyuoaerg537_r",
+      "email": "btr@gmail.com",
+      "password": "$2a$10$vEEu/JOJU8O/7L.ghhDm1.8n/ZJK5sjZQEWnMGYJw5GwkCUqnUpFK",
+      "favorites": [],
+      "viewed": [],
+      "nameChangeCount": 0,
+      "lastChangeTimestamp": null
+    }
+  ],
+  "pdfs": [],
+  "stories": [],
+  "drafts": [],
+  "otps": [
+    {
+      "userId": 1756918345921,
+      "otp": "886794",
+      "expiresAt": 1756919148071
+    },
+    {
+      "userId": 1756645043353,
+      "otp": "790660",
+      "expiresAt": 1756921459639
+    }
+  ]
+}
